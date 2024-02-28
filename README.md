@@ -1,7 +1,7 @@
 # 카메라로 폐기물 종류를 인식, 효율적 분리배출 가능한 AI 피지컬 컴퓨팅 시스템 구현
 
 ## 프로젝트 소개
-+ 딥러닝(CNN)을 사용하여 이미지를 입력으로 했을 때, 쓰레기 종류를 분류하여 출력한다.
++ 딥러닝(CNN)을 사용하여 이미지를 학습하고, 카메라가 폐기물 종류를 인식, 쓰레기 종류를 분류하여 출력한다.
 
 ## Data
 + dataset.zip : https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip 또는 https://www.kaggle.com/asdasdasasdas/garbage-classification
