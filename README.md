@@ -9,7 +9,8 @@
 3. 타 학생들에게 직접 체험해보게 부스를 운영함
 
 ## 학습에 사용한 데이터들
-- 현재 Repository 안에 --에 존재함
+- 현재 Repository 안에 [Labelling raw datas 폴더](https://github.com/JaeyunLim/Trash_Detection_AI/tree/main/Labelling%20raw%20datas)에 존재함
 
 ## 부스운영 자료화면
-- 현재 Repository 안에 --에 존재함
+![IMG_0812](https://github.com/JaeyunLim/Trash_Detection_AI/assets/97609649/10aad84e-3d1a-451c-af21-cb5093a28a5c)
+![IMG_0818](https://github.com/JaeyunLim/Trash_Detection_AI/assets/97609649/4fd4f368-f991-4e14-b15b-2313cfee6124)
